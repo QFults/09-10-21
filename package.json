@@ -1,0 +1,23 @@
+{
+  "name": "09-10-21",
+  "version": "1.0.0",
+  "description": "- Basic CRUD in MySQL\r - The MySQL NPM package\r - Join queries",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QFults/09-10-21.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QFults/09-10-21/issues"
+  },
+  "homepage": "https://github.com/QFults/09-10-21#readme",
+  "dependencies": {
+    "mysql2": "^2.3.0"
+  }
+}
